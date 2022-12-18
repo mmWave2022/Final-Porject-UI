@@ -1,0 +1,5 @@
+No def img: 1; Def img: 16
+Num of img - defect 1: 4
+Num of img - defect 2: 0
+Num of img - defect 3: 7
+Num of img - defect 4: 5

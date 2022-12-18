@@ -1,0 +1,4 @@
+0 flower
+1 person
+2 car
+3 icon
